@@ -129,3 +129,4 @@
 /Users/oleksandr/RiderProjects/EF_learn/Primera/obj/Debug/net8.0/Primera.pdb
 /Users/oleksandr/RiderProjects/EF_learn/Primera/obj/Debug/net8.0/Primera.genruntimeconfig.cache
 /Users/oleksandr/RiderProjects/EF_learn/Primera/obj/Debug/net8.0/ref/Primera.dll
+/Users/oleksandr/RiderProjects/EF_learn/Primera/obj/Debug/net8.0/Primera.sourcelink.json

@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bs_first", "bs_first\bs_fir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primera", "Primera\Primera.csproj", "{7B0D7C81-5D4A-47D1-8A7D-842EBA487215}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPD-Dapper", "SPD-Dapper\SPD-Dapper.csproj", "{7F7B00B0-20EE-4168-B5FD-6CE8F7095828}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7B0D7C81-5D4A-47D1-8A7D-842EBA487215}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B0D7C81-5D4A-47D1-8A7D-842EBA487215}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B0D7C81-5D4A-47D1-8A7D-842EBA487215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7B00B0-20EE-4168-B5FD-6CE8F7095828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7B00B0-20EE-4168-B5FD-6CE8F7095828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7B00B0-20EE-4168-B5FD-6CE8F7095828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7B00B0-20EE-4168-B5FD-6CE8F7095828}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
